@@ -1,168 +1,124 @@
-=# 👋 Hi, I'm Anshika Kushwah
+# Hi, I'm Anshika Kushwah
 
-### 💻 Java | DSA | MERN Stack Developer
+### Java | Data Structures & Algorithms | MERN Stack Developer
 
-🎓 B.Tech Student | 🚀 Aspiring Software Developer
+B.Tech student passionate about **software development, problem solving, and full-stack web development**. I enjoy building practical applications and continuously improving my **Data Structures & Algorithms** skills through competitive programming.
 
-I’m a passionate developer who enjoys **problem-solving, Data Structures & Algorithms, and building full-stack web applications**.
-
-* 🔭 Currently working on **MERN Stack projects**
-* 🌱 Improving my **Java & DSA** skills
-* 💻 Practicing problems on **LeetCode**
-* 🚀 Interested in **Software Development & Web Technologies**
-* 📚 Always learning and building something new
+* 🎓 B.Tech Student
+* 💻 Java & Data Structures and Algorithms
+* 🌐 MERN Stack Developer
+* 🧩 Problem Solving & Competitive Programming
+* 🚀 Interested in Software Engineering and Full-Stack Development
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 👨‍💻 Programming & DSA
+**Languages:**
+Java • C++ • JavaScript
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+**Frontend:**
+HTML • CSS • JavaScript • React.js • Tailwind CSS
 
-### 🌐 Frontend
+**Backend:**
+Node.js • Express.js • REST APIs
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+**Database:**
+MongoDB
 
-### ⚙️ Backend & Database
+**Tools & Platforms:**
+Git • GitHub • VS Code • Postman • Cloudinary
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+**Core Concepts:**
+Data Structures & Algorithms • OOP • DBMS • Computer Networks • Cyber Security
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🍔 Cravings — Smart Food Ordering & Cafeteria Management Platform
+### Cravings — Smart Food Ordering & Cafeteria Management Platform
 
-A **MERN full-stack food ordering platform** designed to simplify food ordering and cafeteria management.
+A MERN-based full-stack application designed to streamline **food ordering and cafeteria management**.
 
-**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • REST APIs • Cloudinary
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs, Cloudinary
 
-**Key Features:**
+**Key Features**
 
-* 🔐 User authentication & authorization
-* 🍽️ Restaurant and food management
-* 🛒 Food ordering system
-* ❤️ Wishlist functionality
-* 👤 User dashboard
-* 📸 Cloudinary image uploads
-* 🔌 RESTful APIs
-
----
-
-### 📚 Gyaansetu — Smart Education Platform
-
-A **Smart Education** project developed for the **Smart India Hackathon**.
-
-**Focus:** Making education more accessible through technology.
+* User authentication and authorization
+* Restaurant and food management
+* Online food ordering
+* Wishlist functionality
+* User dashboard
+* Role-based access
+* Cloudinary image management
+* RESTful API integration
 
 ---
 
-## 🧠 DSA & Problem Solving
+### Gyaansetu — Smart Education Platform
 
-I regularly practice **Data Structures & Algorithms** and solve coding problems to improve my problem-solving skills.
+A **Smart Education** platform developed for the **Smart India Hackathon**.
 
-### 📌 Currently Practicing
+**Objective:**
+To use technology to improve accessibility and efficiency in the education ecosystem.
 
-* Arrays & Strings
-* Linked Lists
-* Stack & Queue
-* Hashing
-* Trees & BST
-* Heaps
-* Graphs
-* Recursion & Backtracking
-* Greedy Algorithms
-* Dynamic Programming
-* Searching & Sorting
+**Focus Areas**
 
-### 🏆 Coding Platform
-
-<p>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+* Digital learning
+* Educational accessibility
+* Technology-driven education
+* User-friendly learning experience
 
 ---
 
-## 📊 GitHub Stats
+## Data Structures & Algorithms
+
+Actively practicing DSA and problem solving using **Java**.
+
+**Topics I Practice:**
+
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
+`Hashing` • `Trees` • `BST` • `Heaps` • `Graphs`
+`Recursion` • `Backtracking` • `Greedy` • `Dynamic Programming`
+`Searching` • `Sorting`
+
+### LeetCode
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### ⭐ "Code. Learn. Build. Repeat."
+### Currently Learning
 
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
+**Advanced DSA • Full-Stack Development • System Design • Software Engineering**
 
+---
 
-<!--
-**kushwah16anshika-alt/kushwah16anshika-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Build. Solve. Learn. Repeat.**
