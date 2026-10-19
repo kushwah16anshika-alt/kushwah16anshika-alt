@@ -1,124 +1,171 @@
-# Hi, I'm Anshika Kushwah
+# 👋 Hi, I'm Anshika Kushwaha
 
-### Java | Data Structures & Algorithms | MERN Stack Developer
+### Java Developer | DSA Enthusiast | MERN Stack Developer
 
-B.Tech student passionate about **software development, problem solving, and full-stack web development**. I enjoy building practical applications and continuously improving my **Data Structures & Algorithms** skills through competitive programming.
+🎓 B.Tech in Computer Science and Engineering at **Lakshmi Narain College of Technology (LNCT), Bhopal**.
 
-* 🎓 B.Tech Student
-* 💻 Java & Data Structures and Algorithms
-* 🌐 MERN Stack Developer
-* 🧩 Problem Solving & Competitive Programming
-* 🚀 Interested in Software Engineering and Full-Stack Development
+I'm a passionate developer who enjoys solving coding problems, building full-stack web applications, and exploring emerging technologies. I believe in continuous learning, consistency, and developing practical solutions through code.
 
----
-
-## Technical Skills
-
-**Languages:**
-Java • C++ • JavaScript
-
-**Frontend:**
-HTML • CSS • JavaScript • React.js • Tailwind CSS
-
-**Backend:**
-Node.js • Express.js • REST APIs
-
-**Database:**
-MongoDB
-
-**Tools & Platforms:**
-Git • GitHub • VS Code • Postman • Cloudinary
-
-**Core Concepts:**
-Data Structures & Algorithms • OOP • DBMS • Computer Networks • Cyber Security
+- 🔭 Currently focusing on Java, Data Structures & Algorithms, and full-stack development.
+- 🌱 Exploring Generative AI, Machine Learning, and AI-assisted development.
+- 💡 Interested in problem-solving, software development, and innovative projects.
+- 🎯 Goal: To secure a software development internship and grow as a software engineer.
+- ⚡ I believe consistency and practice are the keys to mastering any skill.
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### Cravings — Smart Food Ordering & Cafeteria Management Platform
+### Programming Languages
 
-A MERN-based full-stack application designed to streamline **food ordering and cafeteria management**.
+- Java
+- JavaScript
+- Python
+- C++
 
-**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs, Cloudinary
+### Frontend Development
 
-**Key Features**
+- HTML5
+- CSS3
+- React.js
+- Tailwind CSS
 
-* User authentication and authorization
-* Restaurant and food management
-* Online food ordering
-* Wishlist functionality
-* User dashboard
-* Role-based access
-* Cloudinary image management
-* RESTful API integration
+### Backend Development
 
----
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
-### Gyaansetu — Smart Education Platform
+### Databases and Tools
 
-A **Smart Education** platform developed for the **Smart India Hackathon**.
+- MongoDB
+- MySQL
+- Git
+- GitHub
+- Visual Studio Code
+- Cloudinary
 
-**Objective:**
-To use technology to improve accessibility and efficiency in the education ecosystem.
+### AI and Emerging Technologies
 
-**Focus Areas**
-
-* Digital learning
-* Educational accessibility
-* Technology-driven education
-* User-friendly learning experience
-
----
-
-## Data Structures & Algorithms
-
-Actively practicing DSA and problem solving using **Java**.
-
-**Topics I Practice:**
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
-`Hashing` • `Trees` • `BST` • `Heaps` • `Graphs`
-`Recursion` • `Backtracking` • `Greedy` • `Dynamic Programming`
-`Searching` • `Sorting`
-
-### LeetCode
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>
+- Generative AI
+- Prompt Engineering
+- Machine Learning Fundamentals
+- AI-Assisted Development Tools
+- Internet of Things (IoT)
 
 ---
 
-## GitHub Activity
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-</p>
+### 1. Cravings — Smart Food Ordering & Cafeteria Management Platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
-</p>
+A full-stack MERN application designed to simplify online food ordering and cafeteria management.
+
+**Technologies:** React.js, JavaScript (ES6+), Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, REST APIs, JWT
+
+**Key Features:**
+- Secure authentication and role-based access control.
+- Food discovery, search, and filtering.
+- Restaurant and menu management.
+- Food ordering and order management workflows.
+- Image uploads using Cloudinary.
+- RESTful API integration.
+- Responsive user interface.
+
+**Links:**
+- [Live Website](https://cravings.ricr.in)
+- [GitHub Repository](https://github.com/kushwah16anshika-alt/Cravings)
+
+### 2. Lenscraft — Photography Booking Platform
+
+A photography-focused web application designed to connect customers with photographers, videographers, and editors.
+
+**Focus Areas:** Web Development, UI/UX, Booking Workflows, Authentication
+
+**Project Highlights:**
+- Photography service discovery.
+- Connecting customers with creative professionals.
+- Photography booking workflow.
+- Exploration of authentication and AI-powered features.
+
+**Repository:** [Lenscraft on GitHub](https://github.com/kushwah16anshika-alt/Lenscraft)
+
+### 3. Intelligent Room Light Automation
+
+An IoT-based project focused on wireless room lighting control using a microcontroller and connected devices.
+
+**Technologies:** ESP8266 NodeMCU, Arduino/C++, Blynk 2.0, Wi-Fi
+
+**Project Highlights:**
+- Microcontroller-based IoT implementation.
+- Wireless device connectivity.
+- Smart lighting control.
+- Integration with the Blynk platform.
 
 ---
 
-## Let's Connect
+## 💻 Data Structures and Algorithms
 
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+I practice DSA using Java to strengthen my problem-solving skills and prepare for technical interviews.
+
+**Topics I'm Practicing:**
+- Arrays and Strings
+- Hashing and Two Pointers
+- Searching and Sorting
+- Recursion and Backtracking
+- Linked Lists
+- Stacks and Queues
+- Trees and Binary Search Trees
+- Graphs, BFS, and DFS
+- Greedy Algorithms
+- Dynamic Programming
+
+### Coding Profiles
+
+- [GitHub](https://github.com/kushwah16anshika-alt)
+- [LeetCode](https://leetcode.com/)
+
 
 ---
 
-### Currently Learning
+## 📊 GitHub Statistics
 
-**Advanced DSA • Full-Stack Development • System Design • Software Engineering**
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushwah16anshika-alt&show_icons=true&theme=tokyonight&hide_border=true)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushwah16anshika-alt&layout=compact&theme=tokyonight&hide_border=true)
+
+### Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kushwah16anshika-alt&theme=tokyonight&hide_border=true)
 
 ---
 
-> **Build. Solve. Learn. Repeat.**
+## 🎯 Current Goals
+
+- Strengthen Java and DSA fundamentals.
+- Solve coding problems consistently.
+- Improve algorithmic thinking and time complexity analysis.
+- Build responsive and scalable full-stack applications.
+- Explore Generative AI and Machine Learning.
+- Prepare for coding assessments and technical interviews.
+- Contribute to meaningful software projects.
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [Anshika Kushwaha](https://github.com/kushwah16anshika-alt)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/)
+
+---
+
+## ✨ A Little Motivation
+
+> "Great things are built through consistency, curiosity, and the courage to keep learning."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
