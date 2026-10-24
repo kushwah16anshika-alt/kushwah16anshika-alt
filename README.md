@@ -1,171 +1,108 @@
-# 👋 Hi, I'm Anshika Kushwaha
+# Hi there, I'm Anshika Kushwaha 👋
 
-### Java Developer | DSA Enthusiast | MERN Stack Developer
+### 💻 Aspiring Software Developer | Java | DSA | MERN Stack
 
-🎓 B.Tech in Computer Science and Engineering at **Lakshmi Narain College of Technology (LNCT), Bhopal**.
+I'm a Computer Science Engineering student at LNCT Bhopal, passionate about software development, problem-solving, and building real-world applications. I enjoy exploring new technologies, developing full-stack projects, and continuously improving my technical skills.
 
-I'm a passionate developer who enjoys solving coding problems, building full-stack web applications, and exploring emerging technologies. I believe in continuous learning, consistency, and developing practical solutions through code.
-
-- 🔭 Currently focusing on Java, Data Structures & Algorithms, and full-stack development.
-- 🌱 Exploring Generative AI, Machine Learning, and AI-assisted development.
-- 💡 Interested in problem-solving, software development, and innovative projects.
-- 🎯 Goal: To secure a software development internship and grow as a software engineer.
-- ⚡ I believe consistency and practice are the keys to mastering any skill.
+My current focus is on strengthening my Data Structures and Algorithms skills in Java while building practical applications using modern web technologies.
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-### Programming Languages
-
+**Programming Languages**
 - Java
 - JavaScript
-- Python
-- C++
 
-### Frontend Development
-
-- HTML5
-- CSS3
+**Frontend Development**
+- HTML5, CSS3
 - React.js
-- Tailwind CSS
+- Tailwind CSS, Bootstrap
 
-### Backend Development
-
+**Backend Development**
 - Node.js
 - Express.js
 - REST APIs
 - JWT Authentication
 
-### Databases and Tools
+**Database & Tools**
+- MongoDB, SQL
+- Git & GitHub
+- VS Code
 
-- MongoDB
-- MySQL
-- Git
-- GitHub
-- Visual Studio Code
-- Cloudinary
-
-### AI and Emerging Technologies
-
-- Generative AI
+**AI & Productivity Tools**
+- ChatGPT
+- Claude
+- GitHub Copilot
 - Prompt Engineering
-- Machine Learning Fundamentals
-- AI-Assisted Development Tools
-- Internet of Things (IoT)
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 1. Cravings — Smart Food Ordering & Cafeteria Management Platform
+**🍔 Cravings – Smart Food Ordering Platform**
 
-A full-stack MERN application designed to simplify online food ordering and cafeteria management.
+A full-stack food ordering and cafeteria management application designed to simplify food discovery, ordering, and restaurant operations.
 
-**Technologies:** React.js, JavaScript (ES6+), Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, REST APIs, JWT
+- User authentication and role-based access
+- Restaurant and menu browsing with search and filters
+- AI-powered food discovery
+- Order placement, tracking, and management
+- Responsive user interface
 
-**Key Features:**
-- Secure authentication and role-based access control.
-- Food discovery, search, and filtering.
-- Restaurant and menu management.
-- Food ordering and order management workflows.
-- Image uploads using Cloudinary.
-- RESTful API integration.
-- Responsive user interface.
+**📸 Lenscraft – Creative Services Platform**
 
-**Links:**
-- [Live Website](https://cravings.ricr.in)
-- [GitHub Repository](https://github.com/kushwah16anshika-alt/Cravings)
+A platform concept connecting customers with creative professionals, including photographers, videographers, and editors.
 
-### 2. Lenscraft — Photography Booking Platform
+- Discover creative professionals
+- Explore photography and videography services
+- Designed to simplify connections between customers and creators
 
-A photography-focused web application designed to connect customers with photographers, videographers, and editors.
+**💡 Intelligent Room Light Automation**
 
-**Focus Areas:** Web Development, UI/UX, Booking Workflows, Authentication
+An IoT-based project focused on automating room lighting using sensors and wireless connectivity.
 
-**Project Highlights:**
-- Photography service discovery.
-- Connecting customers with creative professionals.
-- Photography booking workflow.
-- Exploration of authentication and AI-powered features.
-
-**Repository:** [Lenscraft on GitHub](https://github.com/kushwah16anshika-alt/Lenscraft)
-
-### 3. Intelligent Room Light Automation
-
-An IoT-based project focused on wireless room lighting control using a microcontroller and connected devices.
-
-**Technologies:** ESP8266 NodeMCU, Arduino/C++, Blynk 2.0, Wi-Fi
-
-**Project Highlights:**
-- Microcontroller-based IoT implementation.
-- Wireless device connectivity.
-- Smart lighting control.
-- Integration with the Blynk platform.
+- ESP8266 NodeMCU
+- Blynk IoT platform
+- Arduino IDE
+- Embedded C/C++
 
 ---
 
-## 💻 Data Structures and Algorithms
+### 📚 Currently Learning
 
-I practice DSA using Java to strengthen my problem-solving skills and prepare for technical interviews.
-
-**Topics I'm Practicing:**
-- Arrays and Strings
-- Hashing and Two Pointers
-- Searching and Sorting
-- Recursion and Backtracking
-- Linked Lists
-- Stacks and Queues
-- Trees and Binary Search Trees
-- Graphs, BFS, and DFS
-- Greedy Algorithms
-- Dynamic Programming
-
-### Coding Profiles
-
-- [GitHub](https://github.com/kushwah16anshika-alt)
-- [LeetCode](https://leetcode.com/)
-
+- Data Structures and Algorithms using Java
+- Problem-solving and coding interview patterns
+- Full Stack Web Development with the MERN stack
+- Generative AI, Large Language Models (LLMs), and Prompt Engineering
+- Building AI-powered applications
 
 ---
 
-## 📊 GitHub Statistics
+### 🎯 My Goals
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushwah16anshika-alt&show_icons=true&theme=tokyonight&hide_border=true)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushwah16anshika-alt&layout=compact&theme=tokyonight&hide_border=true)
-
-### Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kushwah16anshika-alt&theme=tokyonight&hide_border=true)
+- Improve my problem-solving and algorithmic thinking.
+- Develop scalable and user-friendly web applications.
+- Strengthen my understanding of software development fundamentals.
+- Contribute to meaningful projects and learn from the developer community.
+- Prepare for software engineering opportunities through consistent practice.
 
 ---
 
-## 🎯 Current Goals
+### 📊 GitHub Stats
 
-- Strengthen Java and DSA fundamentals.
-- Solve coding problems consistently.
-- Improve algorithmic thinking and time complexity analysis.
-- Build responsive and scalable full-stack applications.
-- Explore Generative AI and Machine Learning.
-- Prepare for coding assessments and technical interviews.
-- Contribute to meaningful software projects.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushwah16anshika-alt&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushwah16anshika-alt&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Connect With Me
+### 🔗 Connect With Me
 
-- **GitHub:** [Anshika Kushwaha](https://github.com/kushwah16anshika-alt)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/)
+- **GitHub:** [kushwah16anshika-alt](https://github.com/kushwah16anshika-alt)
+- **LeetCode:** [Visit My Profile](https://leetcode.com/)
 
 ---
 
-## ✨ A Little Motivation
+⭐ *I believe in consistent learning, solving problems, and improving a little every day.*
 
-> "Great things are built through consistency, curiosity, and the courage to keep learning."
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
