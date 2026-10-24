@@ -91,8 +91,6 @@ An IoT-based project focused on automating room lighting using sensors and wirel
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushwah16anshika-alt&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushwah16anshika-alt&layout=compact&theme=tokyonight)
 
 ---
@@ -100,7 +98,7 @@ An IoT-based project focused on automating room lighting using sensors and wirel
 ### 🔗 Connect With Me
 
 - **GitHub:** [kushwah16anshika-alt](https://github.com/kushwah16anshika-alt)
-- **LeetCode:** [Visit My Profile](https://leetcode.com/)
+- **LeetCode:** [Visit My Profile](https://leetcode.com/u/cs8RG2DYqo/)
 
 ---
 
